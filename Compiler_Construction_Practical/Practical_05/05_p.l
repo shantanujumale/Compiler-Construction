@@ -22,7 +22,7 @@ char changeCase(char ch)
 int main()
 {
     printf("Shantanu Jumale 24070521096\n");
-    printf("Enter a String: ");
+    printf("Enter a Text: ");
     yylex();
     return 0;
 }
